@@ -1,0 +1,73 @@
+body {
+    background-image: url("https://images3.alphacoders.com/882/882548.jpg");
+    width: 100%
+}
+
+h1 {
+    font-size: 43px;
+    border: solid 5px red;
+    background: white;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 15px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+
+img {
+    margin: 5px;
+}
+
+
+.sidebar {
+    padding: 5px;
+    position: relative;
+    border-top: solid red 2px;
+    border-bottom: solid red 2px;
+    margin-bottom: 5px;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 20px;
+}
+
+span {
+    border: solid red 2px;
+    padding-left: 3px;
+    padding-right:3px;
+    background-color: yellow; 
+    font-size: 30px;
+}
+
+.background {
+    background-image: url(https://wallpapercave.com/wp/wp1839586.png);
+    width: 100%;
+    border: solid 5px red;
+}
+
+.container {
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5px;
+    text-align: center;
+    border: solid 3px red;
+}
+
+#currentword {
+    font-size: 60px;
+    font-family: cursive;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#scoreboard {
+    padding: 20px;
+}
